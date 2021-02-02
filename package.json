@@ -1,0 +1,37 @@
+{
+  "name": "sample_app",
+  "private": true,
+  "dependencies": {
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.3.0",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  },
+  "description": "This is the sample application for ruby on rails",
+  "main": "babel.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silveiraleandro/sample_app.git"
+  },
+  "keywords": [
+    "leandro"
+  ],
+  "author": "leandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silveiraleandro/sample_app/issues"
+  },
+  "homepage": "https://github.com/Silveiraleandro/sample_app#readme"
+}
