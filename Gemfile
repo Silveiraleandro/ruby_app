@@ -28,6 +28,12 @@ gem 'jbuilder', '~> 2.7'
 # hashing passwords with bcrypt,
 gem 'bcrypt', '3.1.13' 
 
+#allows to make sample users with semi-realistic names and email addresses
+gem 'faker', '2.1.2'
+
+#paginate users to be shown
+gem 'will_paginate', '3.1.8'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
